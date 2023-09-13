@@ -1,8 +1,8 @@
-# libreSenses: Automated Subtitles Integration for Librefix
+# libreSenses: Automated Subtitles Integration for Libreflix
 
 ## Overview
 
-libreSenses is a project dedicated to enhancing accessibility in the Librefix streaming service. By seamlessly integrating automated subtitles, this initiative aims to make content more inclusive, ensuring that it caters to a diverse audience, including those with hearing impairments.
+libreSenses is a project dedicated to enhancing accessibility in the Libreflix streaming service. By seamlessly integrating automated subtitles, this initiative aims to make content more inclusive, ensuring that it caters to a diverse audience, including those with hearing impairments.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ libreSenses is a project dedicated to enhancing accessibility in the Librefix st
 
 ## Features
 
-- **Automated Subtitles**: Implement a system to generate accurate and synchronized subtitles for video content on Librefix.
+- **Automated Subtitles**: Implement a system to generate accurate and synchronized subtitles for video content on Libreflix.
 
 ## Getting Started
 
-To start using libreSenses, follow these steps:
+To start using libreSenses with Libreflix, follow these steps:
 
 ```bash
 # Clone the repository
